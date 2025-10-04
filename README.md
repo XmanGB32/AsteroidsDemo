@@ -3,6 +3,7 @@
 A simple Asteroids-like game implemented in C++ using OpenGL, GLFW, GLAD, and GLM. Control a spaceship, avoid and destroy asteroids in a wrap-around space environment.
 
 
+![ASTEROIDS SnipJPG](https://github.com/user-attachments/assets/f5dde39a-a298-40e1-b672-4d11bd4dec47)
 
 
 *(Example screenshot of a similar OpenGL-based Asteroids game)*
